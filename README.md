@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayo-Show
 - 👀 I’m interested in web and software development.
 - 🌱 I worked with technologies such as NodeJS, JavaScript, React, Ruby, HTML and CSS.
-- 
+
 
 
 <!---
